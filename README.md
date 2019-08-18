@@ -5,7 +5,7 @@ The objective of this project is to go through, analyze and study Seattle AirBnB
 
 **Files:**
 Seattle_AirBnB_Data.ipynb
-This is the file (Jupyter Notebook) where the technical part of the project is covered. It was divided by the files on the dataset: *Calendar*, *Reviews* and *Listings*, following the same producedure in each of them. First, I took a brief look at the data and retrieved some general information, and then a deeper analysis was carried out.
+This is the file (Jupyter Notebook) where the technical part of the project is covered. It was divided by the files on the dataset: *Calendar*, *Reviews* and *Listings*, following the same producedure in each of them. First, I took a brief look at the data and retrieved some general information, and then a deeper analysis was carried out. It is worth mentioning that there was no need to process missing values since they were due to absence of people responses in comments, reviews, descriptions, etc., which is very normal in this kind of data. To process categorical variables that needed a deeper treatment, a function was created that converted those to numeric values so that they can be included in the studies and calculus.
 
 The questions aforementioned were responded according to the sections needed to do it. 
 
